@@ -1,0 +1,47 @@
+.outbox{
+    border: solid 1px;
+    height: 700px;
+    background-image: url(non.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 900px;
+}
+#nav{
+    border: solid 1px white;
+    height: 50px;
+    line-height: 50px;
+
+}
+#in{
+    color: rgb(51, 255, 0);
+    font-size: 50px;
+    text-decoration: none;
+    padding-right: 25px;
+    font-weight: bold;
+}
+#out{
+    border: solid 1px;
+    height: 450px;
+    
+}
+#l{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 100px;
+    text-shadow: 3px 3px 5px white;
+}
+#menu{
+    border: solid 1px;
+    height: 300px;
+    background-color:rgba(0, 0, 255, 0);
+
+}
+#{
+    text-align: center;
+    background-color: aqua;
+}
+#image{
+    margin-left: 20px;
+    border-radius: 300px;
+   box-shadow: none;
+}
